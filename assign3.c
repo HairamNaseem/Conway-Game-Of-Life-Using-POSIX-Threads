@@ -6,7 +6,7 @@
 #include <signal.h>
 
 #define GRID_SIZE 10
-#define NUM_THREADS 45
+#define NUM_THREADS 5
 #define NUM_GENERATIONS 10
 
 int grid[GRID_SIZE][GRID_SIZE];
